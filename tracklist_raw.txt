@@ -1,0 +1,18 @@
+#	Artwork	Track Title	Artist	Album	BPM	Rating	Time	Key	Date Added
+1		Interlude	Higgo	Get Right Inside (Compiled & Mixed by Kastle)	130.00	     	03:56	Dm	2023-01-28
+2		Breeze (Deja Remix)	Prozak	Tracks Funky Jackin Groove Days	132.00	     	04:25	Dbm	2023-01-28
+3		Strawberries	K-LONE, Wilfy D	VITD004	129.00	     	04:30	Bm	2023-01-28
+4		Be Real	Y U QT	Be Real	132.00	     	04:40	Gm	2023-01-28
+5		Sidewindah (Interplanetary Criminal Extended Remix)	Gorgon City, Flirta D	https://djsoundtop.com	135.00	     	05:47	Am	2023-01-28
+6		98 Riddim	Sam Deeley, That Fancy I	Steppers X SPRAYBOX	134.00	     	03:58	Cm	2023-01-28
+7		soft spot (MJ Cole Remix)	piri/Tommy Villiers	soft spot	133.00	     	03:51	Bm	2023-01-28
+8		Sammy Virji - Promise Me	Chip Butty		140.00	     	04:56	Em	2023-01-28
+9		Burning (Original Mix)	Daze Prism	A Side	129.00	     	07:00	Em	2023-01-28
+10		Racer (Original Mix)	Cromby		138.00	     	08:10	Bbm	2023-02-01
+11		Fear Is The Mind Killer (Cromby Remix)	Sentient State	Welcome To The Sentient State	136.00	     	06:42	Em	2023-02-01
+12		It's NP-Complicated	Nikki Nair	Renormalization Support Group	150.00	     	04:49	Ebm	2023-02-04
+13		Burner	Movement	Burner	136.00	     	04:58	Bbm	2023-01-28
+14		The Reason	ZeroFG	TXTBKLTD01	133.00	     	05:46	Bbm	2023-02-04
+15		One Night In Paris (Original Mix)	Smokey Bubblin B	electronicfresh.com 	130.00	     	03:29	Fm	2023-01-28
+16		Look Right Through (MK Vocal Edit)	Storm/Queen/MK		120.00	     	02:34	Cm	2023-01-28
+17		Smile (Kryphon Bootleg)	Lily Allen		137.00	     	03:37	Cm	2023-01-28
